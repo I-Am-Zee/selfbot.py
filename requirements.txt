@@ -1,4 +1,4 @@
-git+https://github.com/Rapptz/discord.py@rewrite
+git+https://github.com/Rapptz/discord.py@184c4302c7fe17a31893f0accf197c975200d233
 lxml
 mtranslate
 colorthief
